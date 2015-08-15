@@ -1,0 +1,40 @@
+{
+	"version" : 0,
+	"data" : [
+		{
+			"index" : 1,
+			"name" : "rctimobile",
+			"livestream_url" : "",
+			"mobile_url" : "rctimobile.com",
+			"image" "http://localhost:3000/logo_tv_rcti_big.png"
+		},
+		{
+			"index" : 2,
+			"name" : "MNC TV",
+			"livestream_url" : "",
+			"mobile_url" : "",
+			"image" "http://localhost:3000/logo_tv_mnctv_big.png"
+		},
+		{
+			"index" : 3,
+			"name" : "Global TV",
+			"livestream_url" : "",
+			"mobile_url" : "",
+			"image" "http://localhost:3000/logo_tv_globaltv_big.png"
+		},
+		{
+			"index" : 4,
+			"name" : "iNews",
+			"livestream_url" : "",
+			"mobile_url" : "",
+			"image" "http://localhost:3000/logo_tv_inews_big.png"
+		},
+		{
+			"index" : 2,
+			"name" : "MNC Shop",
+			"livestream_url" : "rtmp://streaming.mncshop.co.id:1935/live",
+			"mobile_url" : "http://www.mncshop.co.id/",
+			"image" "http://localhost:3000/logo_tv_mncshop_big.png"
+		},
+	]
+}
