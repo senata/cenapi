@@ -43,8 +43,8 @@
 			"livestream_url" : "http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8",
 			"mobile_url" : "http://www.inewstvmobile.com/m",
 			"image_small":"https://cenapi.herokuapp.com/logo_tv_inews_big.png",
-			"image_medium":"https://cenapi.herokuapp.com/inews_ipad.png",
-			"image_large":"https://cenapi.herokuapp.com/inews_ipad.png",
+			"image_medium":"https://cenapi.herokuapp.com/inewstv_ipad.png",
+			"image_large":"https://cenapi.herokuapp.com/inewstv_ipad.png",
 			"show_livestream":1,
 			"show_interactive":1,
 			"show_channel":1
