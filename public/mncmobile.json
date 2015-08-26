@@ -1,12 +1,14 @@
 {
-	"version" : 0,
+	"version" : 1,
 	"data" : [
 		{
 			"index" : 1,
 			"name" : "rctimobile",
 			"livestream_url" : "http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8",
 			"mobile_url" : "rctimobile.com",
-			"image":"https://cenapi.herokuapp.com/logo_tv_rcti_big.png",
+			"image_small":"https://cenapi.herokuapp.com/logo_tv_rcti_big.png",
+			"image_medium":"https://cenapi.herokuapp.com/rcti_ipad.png",
+			"image_large":"https://cenapi.herokuapp.com/rcti_ipad.png",
 			"show_livestream":1,
 			"show_interactive":1,
 			"show_channel":1
@@ -16,7 +18,9 @@
 			"name" : "MNC TV",
 			"livestream_url" : "http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/index.m3u8",
 			"mobile_url" : "",
-			"image":"https://cenapi.herokuapp.com/logo_tv_mnctv_big.png",
+			"image_small":"https://cenapi.herokuapp.com/logo_tv_mnctv_big.png",
+			"image_medium":"https://cenapi.herokuapp.com/mnctv_ipad.png",
+			"image_large":"https://cenapi.herokuapp.com/mnctv_ipad.png",
 			"show_livestream":1,
 			"show_interactive":0,
 			"show_channel":1
@@ -26,7 +30,9 @@
 			"name" : "Global TV",
 			"livestream_url" : "http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index.m3u8",
 			"mobile_url" : "",
-			"image":"https://cenapi.herokuapp.com/logo_tv_globaltv_big.png",
+			"image_small":"https://cenapi.herokuapp.com/logo_tv_globaltv_big.png",
+			"image_medium":"https://cenapi.herokuapp.com/globaltv_ipad.png",
+			"image_large":"https://cenapi.herokuapp.com/globaltv_ipad.png",
 			"show_livestream":1,
 			"show_interactive":0,
 			"show_channel":1
@@ -36,17 +42,21 @@
 			"name" : "iNews",
 			"livestream_url" : "http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8",
 			"mobile_url" : "http://www.inewstvmobile.com/m",
-			"image":"https://cenapi.herokuapp.com/logo_tv_inews_big.png",
+			"image_small":"https://cenapi.herokuapp.com/logo_tv_inews_big.png",
+			"image_medium":"https://cenapi.herokuapp.com/inews_ipad.png",
+			"image_large":"https://cenapi.herokuapp.com/inews_ipad.png",
 			"show_livestream":1,
 			"show_interactive":1,
 			"show_channel":1
 		},
 		{
-			"index" : 2,
+			"index" : 5,
 			"name" : "MNC Shop",
 			"livestream_url" : "http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index.m3u8",
 			"mobile_url" : "http://www.mncshop.co.id/",
-			"image":"https://cenapi.herokuapp.com/logo_tv_mncshop_big.png",
+			"image_small":"https://cenapi.herokuapp.com/logo_tv_mncshop_big.png",
+			"image_medium":"https://cenapi.herokuapp.com/mncshop_ipad.png",
+			"image_large":"https://cenapi.herokuapp.com/mncshop_ipad.png",
 			"show_livestream":1,
 			"show_interactive":1,
 			"show_channel":1
